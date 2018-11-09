@@ -37,3 +37,18 @@
   margin-bottom: 10px;
 }
 
+.error {
+    color: #D8000C;
+    background-color: #FFD2D2;
+    border-radius: .5em;
+    border: 1px solid;
+    box-shadow:1px 1px 3px #888;
+    position: relative;
+    margin-bottom: 10px;
+    padding-right: 5px;
+    padding-left: 5px;
+    display: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+

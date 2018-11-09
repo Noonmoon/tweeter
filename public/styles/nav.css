@@ -19,3 +19,27 @@
   height: 80px;
   width: 80px;
 }
+
+
+
+.compose {
+    float: right;
+    background-color: #F3F3F3;
+    border: black;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    color: #00a087;
+    padding-top: 15px;
+    font-size: 18px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    opacity: 0.9;
+    margin-top: 13.5px;
+    margin-bottom: 13.5px;
+}
+
+.compose:hover {opacity: 1}
+
+

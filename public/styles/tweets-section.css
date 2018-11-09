@@ -4,7 +4,7 @@
   margin-right: 25px;
 }
 
-.tweets.box {
+.tweetArticle {
   border-style: solid;
   border-width: 1px;
   border-radius: 5px;
@@ -12,8 +12,11 @@
   margin-right: 15px;
   margin-top: 15px;
   margin-bottom: 15px;
-  height: 170;
-  opacity: 0.7;
+  opacity: 0.8;
+}
+
+.tweetArticle:hover {
+  opacity: 1;
 }
 
 header {
@@ -31,14 +34,12 @@ header {
   float: left;
 }
 
-footer {
-
-}
-
 .posttext {
   margin-left: 10px;
   margin-bottom: 30px;
   margin-top: 30px;
+  margin-right: 10px;
+  word-break: break-all;
 }
 
 .posted {
