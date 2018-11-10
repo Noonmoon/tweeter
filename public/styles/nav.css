@@ -20,8 +20,6 @@
   width: 80px;
 }
 
-
-
 .compose {
     float: right;
     background-color: #F3F3F3;
@@ -41,5 +39,3 @@
 }
 
 .compose:hover {opacity: 1}
-
-

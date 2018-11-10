@@ -19,11 +19,33 @@
   opacity: 1;
 }
 
+.material-icons {
+ color: #199e89;
+ font-size: 17px;
+ margin-bottom: 0px;
+ margin-top: 0px;
+ margin-right: 5px;
+ float: right;
+ position: relative;
+ top: -16px;
+ display: none;
+}
+
+.tweetArticle:hover .material-icons, .tweetArticle.hover .material-icons {
+  display: inline-block;
+}
+
+
 header {
   height: 60px;
   background-color: #f3f3f3;
   border-top-left-radius: inherit;
   border-top-right-radius: inherit;
+}
+
+footer {
+  padding-top: 8px;
+  padding-bottom: 8px;
 }
 
 .profile {
@@ -36,19 +58,17 @@ header {
 
 .posttext {
   margin-left: 10px;
-  margin-bottom: 30px;
-  margin-top: 30px;
+  margin-bottom: 25px;
+  margin-top: 25px;
   margin-right: 10px;
   word-break: break-all;
 }
 
 .posted {
-  position: relative;
   margin-top: 0;
-  margin-bottom: 0px;
+  margin-bottom: 0;
   margin-left: 5px;
   font-size: 12px;
-  top: 8px;
 }
 
 
@@ -73,7 +93,4 @@ header {
 .footerline {
   margin-bottom: 0;
 }
-
-
-
 
