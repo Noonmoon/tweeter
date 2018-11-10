@@ -21,3 +21,8 @@ This repository is the starter code for the project: Students will fork and clon
 - Nodemon
 
 ## Screenshots
+
+!["Screenshot of main page"](https://github.com/Noonmoon/tweeter/blob/master/docs/Screen%20Shot%202018-11-10%20at%2012.15.34%20AM.png?raw=true)
+!["Screenshot of tweets"](https://github.com/Noonmoon/tweeter/blob/master/docs/Screen%20Shot%202018-11-10%20at%2012.16.42%20AM.png?raw=true)
+!["Screenshot of tweets with hover"](https://github.com/Noonmoon/tweeter/blob/master/docs/Screen%20Shot%202018-11-10%20at%2012.17.46%20AM.png?raw=true)
+
